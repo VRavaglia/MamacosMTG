@@ -12,7 +12,7 @@
         <card>
             <name>Chaos Leviathan</name>
             <text>Cascade
-            Whenever you cast a spell with {x} in its mana cost, if it was cast without paying the {x} cost, you may use the highest power among the creatures you control as the value of {x} instead. </text>
+            Whenever you cast a spell with {x} in its mana cost, if it was cast without paying the {x} cost, you may use the highest power among the creatures you control as the value of {x} instead.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -28,7 +28,7 @@
                 <format-modern>legal</format-modern>
                 <format-pauper>legal</format-pauper>
             </prop>
-            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/13/1620907364746894.png">MMC</set>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://imgur.com/wKv9lqT">MMC</set>
             <tablerow>2</tablerow>
         </card>
     </cards>
