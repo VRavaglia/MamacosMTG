@@ -35,7 +35,7 @@
             <name>Alvim</name>
             <text>
                 You can use skills from command zone.
-                {W}: Put a soldier 1/1 with vigilance on the battlefield
+                {W}: Create a 1/1 white Soldier creature token with lifelink.
                 {1}{B}, {T}: Draw a card and lose 1 life.
 
                 If Alvin is in the battlefield:
@@ -56,7 +56,7 @@
                 <type>Legendary Creature — Human Soldier </type>
                 <side>front</side>
             </prop>
-            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://i.imgur.com/yh4d5SQ.jpg" >MMC</set>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://i.imgur.com/ug8gZTU.jpg" >MMC</set>
             <tablerow>2</tablerow>
         </card>
     </cards>
