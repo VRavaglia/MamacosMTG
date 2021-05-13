@@ -33,12 +33,13 @@
         </card>
         <card>
             <name>Alvim</name>
-            <text>If Alvin is in the command zone:
-                {1}{B}, {T}: Draw a card, then put one card from hand into top of library and lose 1 life.
+            <text>
+                You can use skills from command zone.
+                {W}: Put a soldier 1/1 with vigilance on the battlefield
+                {1}{B}, {T}: Draw a card and lose 1 life.
 
                 If Alvin is in the battlefield:
-                {1}{B}, {T}: Draw a card and lose 1 life.
-                Partner (You can have two commanders if both have partner.)
+                Other creatures you control get +1/+1 and vigilance.
             </text>
             <prop>
                 <colors>WB</colors>
