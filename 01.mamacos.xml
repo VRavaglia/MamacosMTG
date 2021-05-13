@@ -31,5 +31,32 @@
             <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://imgur.com/wKv9lqT">MMC</set>
             <tablerow>2</tablerow>
         </card>
+        <card>
+            <name>Alvim</name>
+            <text>If Alvin is in the command zone:
+                {1}{B}, {T}: Draw a card, then put one card from hand into top of library and lose 1 life.
+
+                If Alvin is in the battlefield:
+                {1}{B}, {T}: Draw a card and lose 1 life.
+                Partner (You can have two commanders if both have partner.)
+            </text>
+            <prop>
+                <colors>WB</colors>
+                <pt>2/4</pt>
+                <coloridentity>WB</coloridentity>
+                <cmc>4</cmc>
+                <layout>normal</layout>
+                <format-commander>legal</format-commander>
+                <manacost>2WB</manacost>
+                <format-vintage>legal</format-vintage>
+                <format-duel>legal</format-duel>
+                <maintype>Creature</maintype>
+                <format-legacy>legal</format-legacy>
+                <type>Legendary Creature — Human Soldier </type>
+                <side>front</side>
+            </prop>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://imgur.com/AsJbWQB" >MMC</set>
+            <tablerow>2</tablerow>
+        </card>
     </cards>
 </cockatrice_carddatabase>
