@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>MMC</name>
+            <longname>Gurlo dos Mamacos</longname>
+            <settype>Custom</settype>
+            <releasedate>2021-05-12</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Chaos Leviathan</name>
+            <text>Cascade
+            Whenever you cast a spell with {x} in its mana cost, if it was cast without paying the {x} cost, you may use the highest power among the creatures you control as the value of {x} instead. </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature — Leviathan</type>
+                <maintype>Creature</maintype>
+                <manacost>3GRB</manacost>
+                <cmc>6</cmc>
+                <colors>GRB</colors>
+                <coloridentity>GRB</coloridentity>
+                <pt>6/6</pt>
+                <format-standard>legal</format-standard>
+                <format-commander>legal</format-commander>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+            </prop>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/13/1620907364746894.png">MMC</set>
+            <tablerow>2</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
