@@ -56,7 +56,32 @@
                 <type>Legendary Creature — Human Soldier </type>
                 <side>front</side>
             </prop>
-            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://i.imgur.com/ug8gZTU.jpg" >MMC</set>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="1" muid="123456" picurl="https://i.imgur.com/ug8gZTU.jpg" >MMC</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ostratos, Silent Walker</name>
+            <text>
+                Landfall — Whenever a land enters the battlefield under your control, create a 1/1 colorless Servo creature token.
+    Your artifacts have: “1, Sacrifice this artifact: Put X +1/+1 counters on target creature where X is the mana cost of this artifact plus one.”
+            </text>
+            <prop>
+                <colors>GWU</colors>
+                <pt>4/4</pt>
+                <coloridentity>GWU</coloridentity>
+                <cmc>5</cmc>
+                <layout>normal</layout>
+                <format-commander>legal</format-commander>
+                <manacost>2GWU</manacost>
+                <format-vintage>legal</format-vintage>
+                <format-duel>legal</format-duel>
+                <maintype>Creature</maintype>
+                <format-legacy>legal</format-legacy>
+                <type>Legendary Artifact Creature — Golem</type>
+                <side>front</side>
+            </prop>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="3" muid="123456" picurl="https://i.imgur.com/1hV0mSo.png">MMC</set>
+            <related>Servo</related>
             <tablerow>2</tablerow>
         </card>
     </cards>
