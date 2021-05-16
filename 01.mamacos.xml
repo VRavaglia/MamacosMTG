@@ -64,10 +64,8 @@
             <text>
                 You can use skills in command zone.
                 {W}: Create 1/1 white Soldier creature token with lifelink.
-
                 If Alvin is on battlefield:
                 {2}{B}, {T}: Search your library for artifact card, put that card into your hand, then shuffle, you lose 1 life.
-
                 Other creatures you control get +1/+1 and vigilance.
             </text>
             <prop>
