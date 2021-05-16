@@ -60,6 +60,35 @@
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Alvim 2.0</name>
+            <text>
+                You can use skills in command zone.
+                {W}: Create 1/1 white Soldier creature token with lifelink.
+
+                If Alvin is on battlefield:
+                {2}{B}, {T}: Search your library for a card, put that card into your hand, then shuffle, you lose 1 life.
+
+                Other creatures you control get +1/+1 and vigilance.
+            </text>
+            <prop>
+                <colors>WB</colors>
+                <pt>1/4</pt>
+                <coloridentity>WB</coloridentity>
+                <cmc>3</cmc>
+                <layout>normal</layout>
+                <format-commander>legal</format-commander>
+                <manacost>1WB</manacost>
+                <format-vintage>legal</format-vintage>
+                <format-duel>legal</format-duel>
+                <maintype>Creature</maintype>
+                <format-legacy>legal</format-legacy>
+                <type>Legendary Creature — Human Soldier </type>
+                <side>front</side>
+            </prop>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://i.imgur.com/GlSiFwB.jpg" >MMC</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Ostratos, Silent Walker</name>
             <text>
                 Landfall — Whenever a land enters the battlefield under your control, create a 1/1 colorless Servo creature token.
