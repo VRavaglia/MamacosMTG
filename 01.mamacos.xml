@@ -66,7 +66,7 @@
                 {W}: Create 1/1 white Soldier creature token with lifelink.
 
                 If Alvin is on battlefield:
-                {2}{B}, {T}: Search your library for a card, put that card into your hand, then shuffle, you lose 1 life.
+                {2}{B}, {T}: Search your library for artifact card, put that card into your hand, then shuffle, you lose 1 life.
 
                 Other creatures you control get +1/+1 and vigilance.
             </text>
@@ -85,7 +85,7 @@
                 <type>Legendary Creature — Human Soldier </type>
                 <side>front</side>
             </prop>
-            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://i.imgur.com/GlSiFwB.jpg" >MMC</set>
+            <set rarity="mythic" uuid="b5c2279f-80fc-4b07-9d8d-b4a7469eaefe" num="2" muid="123456" picurl="https://i.imgur.com/rwcge24.jpg" >MMC</set>
             <tablerow>2</tablerow>
         </card>
         <card>
